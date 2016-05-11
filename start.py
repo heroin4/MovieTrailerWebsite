@@ -4,7 +4,7 @@ import EntertainmentCenter
 """get the movie list and render the web page"""
 
 
-moivelist = [EntertainmentCenter.american_captain,
+moivelist = [EntertainmentCenter.caption,
              EntertainmentCenter.monster,
              EntertainmentCenter.turtle,
              EntertainmentCenter.xmen]
